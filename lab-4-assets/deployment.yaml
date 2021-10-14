@@ -4,7 +4,7 @@ metadata:
   labels:
     app: httpd
   name: httpd
-  namespace: simple-app
+  namespace: simple-app-test
 spec:
   replicas: 1
   selector:
